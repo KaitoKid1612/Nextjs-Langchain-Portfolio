@@ -1,0 +1,6 @@
+name: Le manh bin
+age: 22
+hobbies: football, badminton
+Mr. Bin is a dedicated and passionate developer based in Vietnam. 
+With a strong focus on creating efficient and innovative solutions, he brings his technical expertise and practical experience to every project. 
+He is always ready to embrace new challenges and continuously strives to learn and grow in the ever-evolving field of software development.
