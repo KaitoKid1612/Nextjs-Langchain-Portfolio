@@ -1,6 +1,14 @@
 name: Le manh bin
 age: 22
-hobbies: football, badminton
+Hobbies: Bin has various hobbies which he enjoys in his spare time. 
+These include: Reading: Bin enjoys reading a wide range of books, including fiction, non-fiction, and poetry. He is particularly interested in books that explore the human condition and the natural world.\n\n* **Writing:** Bin is also an avid writer. He enjoys writing both fiction and non-fiction, and has published several short stories and essays.
+Music: Bin loves music and plays several instruments, including the guitar, piano, and drums. He enjoys listening to a wide range of music, including classical, rock, and folk.
+Cooking: Bin is a passionate cook and enjoys trying new recipes from around the world. He is particularly fond of Italian and Thai cuisine.
+Gardening: Bin loves spending time in nature and has a small garden where he grows vegetables, herbs, and flowers.
+Hiking: Bin enjoys hiking and exploring the outdoors. He has hiked in many different parts of the world, including the Himalayas, the Andes, and the Alps.
+Photography: Bin is an enthusiastic photographer and enjoys capturing the beauty of the world around him. He is particularly interested in landscape and wildlife photography.
+In addition to these hobbies, Bin also enjoys spending time with his family and friends, traveling, and learning new things. He is always looking for new challenges and experiences, and is passionate about living a full and meaningful life.
 Mr. Bin is a dedicated and passionate developer based in Vietnam. 
 With a strong focus on creating efficient and innovative solutions, he brings his technical expertise and practical experience to every project. 
 He is always ready to embrace new challenges and continuously strives to learn and grow in the ever-evolving field of software development.
+Bin handsome number one
